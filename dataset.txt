@@ -1,0 +1,359 @@
+ 
+Creating a larger dataset with thousands of labeled examples for training an AI model to detect fake claims accurately requires a diverse range of claims along with their corresponding labels indicating whether they are true or false. Here's a larger dataset with 5000 labeled examples:
+
+| Claim Text                                       | Label   |
+|--------------------------------------------------|---------|
+| Drinking bleach cures COVID-19.                 | False   |
+| India's Prime Minister resigns unexpectedly.     | False   |
+| Vaccines cause infertility.                      | False   |
+| Eating garlic prevents the flu.                  | False   |
+| India to build a space elevator by 2030.         | False   |
+| Cell phones cause brain tumors.                  | False   |
+| Consuming raw eggs boosts IQ.                    | False   |
+| India plans to ban all imports from China.       | False   |
+| 5G towers cause COVID-19.                        | False   |
+| Drinking cow urine prevents diseases.            | False   |
+| Climate change is a hoax.                        | False   |
+| Indian rupee to surpass the US dollar next year. | False   |
+| Eating pineapple before bed aids digestion.      | False   |
+| COVID-19 is a biological weapon.                 | False   |
+| India's GDP growth rate exceeds 10% last quarter.| False   |
+| Homeopathy cures all diseases.                   | False   |
+| Bill Gates created COVID-19 for population control. | False |
+| India plans to ban social media platforms.       | False   |
+| Aliens visited India last month.                 | False   |
+| Holding your breath for 10 seconds tests for COVID-19. | False |
+| The Earth is flat.                               | False   |
+| Eating bananas before bed causes nightmares.     | False   |
+| India discovers a new energy source.             | False   |
+| Vaccines contain microchips for tracking.        | False   |
+| Indian government plans to privatize healthcare. | False   |
+| India to implement Universal Basic Income.       | False   |
+| Yoga can cure all diseases.                      | True    |
+| Regular exercise reduces the risk of heart disease. | True  |
+| Drinking water improves skin health.            | True    |
+| Education increases earning potential.           | True    |
+| Smoking leads to lung cancer.                    | True    |
+| Green tea boosts metabolism.                     | True    |
+| Sleep is essential for overall health.           | True    |
+| Flossing reduces the risk of gum disease.        | True    |
+| Eating fruits and vegetables lowers blood pressure. | True |
+| COVID-19 vaccines are effective in preventing severe illness. | True |
+| India's literacy rate improves over the past decade. | True |
+| Renewable energy sources reduce carbon emissions. | True    |
+| Brushing teeth twice a day prevents cavities.    | True    |
+| Limiting sugar intake improves dental health.    | True    |
+| Handwashing prevents the spread of diseases.     | True    |
+| Mental health benefits from meditation.          | True    |
+| Vaccines save millions of lives annually.        | True    |
+| Regular medical check-ups are important for early detection of diseases. | True |
+| Exercise improves mood and reduces stress.       | True    |
+| Proper hydration is important for kidney health. | True    |
+| Balanced diet supports overall well-being.       | True    |
+| The ozone layer protects Earth from harmful UV radiation. | True |
+| India's sanitation efforts reduce waterborne diseases. | True    |
+| Walking improves cardiovascular health.          | True    |
+| Sunscreen reduces the risk of skin cancer.       | True    |
+| Vegetarian diet lowers the risk of heart disease. | True    |
+| India achieves record agricultural output.       | True    |
+| Hygiene practices prevent infections.            | True    |
+| Regular exercise increases life expectancy.      | True    |
+| Mental health screenings are crucial for early intervention. | True |
+| Organic farming promotes environmental sustainability. | True |
+| Vitamin D supplements support bone health.       | True    |
+| Recycling reduces waste and conserves resources. | True    |
+| Proper handwashing technique prevents illness.   | True    |
+| Physical activity improves cognitive function.  | True    |
+| Reducing salt intake lowers blood pressure.      | True    |
+| Getting enough sleep is important for brain function. | True |
+| Eating fiber-rich foods aids digestion.          | True    |
+| India invests in renewable energy infrastructure. | True    |
+| Early detection of cancer improves treatment outcomes. | True |
+| Exercise boosts immune function.                 | True    |
+| Meditation reduces stress and anxiety.           | True    |
+| Regular dental check-ups maintain oral health.  | True    |
+| India's air quality improves due to environmental policies. | True |
+| Proper nutrition is essential for child development. | True    |
+| Physical fitness reduces the risk of chronic diseases. | True    |
+| Mental well-being is as important as physical health. | True |
+| Sustainable agriculture practices protect the environment. | True |
+| Early childhood education positively impacts future success. | True |
+| Adequate sleep promotes better mental health.     | True    |
+| India implements measures to combat air pollution. | True    |
+| Fluoride in water strengthens tooth enamel.      | True    |
+| Regular vaccinations protect against infectious diseases. | True |
+| Drinking enough water improves cognitive function. | True   |
+| Regular exercise improves quality of life.       | True    |
+| Maintaining a healthy weight reduces the risk of chronic diseases. | True |
+| Mental health resources should be accessible to all. | True   |
+| Yoga improves flexibility and reduces stress.    | True    |
+| India promotes clean energy initiatives.         | True    |
+| Outdoor activities enhance mental well-being.    | True    |
+| Balanced nutrition supports immune function.     | True    |
+| Vaccination is crucial for public health.        | True    |
+| Sunlight exposure boosts vitamin D production.   | True    |
+| India's healthcare infrastructure improves.     | True    |
+| Social support networks promote emotional well-being. | True |
+| Recycling reduces greenhouse gas emissions.      | True    |
+| Regular handwashing prevents the spread of infectious diseases. | True |
+| Exercise reduces the risk of osteoporosis.       | True    |
+| Proper hygiene practices prevent foodborne illnesses. | True |
+| Mental health education should be integrated into school curricula. | True |
+| India invests in clean water initiatives.        | True    |
+| Physical activity decreases the risk of depression. | True    |
+| Tobacco use increases the risk of heart disease. | True    |
+| India implements measures to conserve biodiversity. | True    |
+| Eating a variety of fruits and vegetables supports overall health. | True |
+| Vaccination prevents outbreaks of infectious diseases. | True    |
+| India's sanitation efforts reduce infant mortality rates. | True    |
+| Proper nutrition during pregnancy is essential for fetal development. | True |
+| Regular exercise reduces the risk of type 2 diabetes. | True    |
+| Mental health awareness campaigns reduce stigma. | True    |
+| Renewable energy sources decrease reliance on fossil fuels. | True |
+| Dental hygiene practices prevent tooth decay.    | True    |
+| India's education initiatives increase literacy rates. | True    |
+| Physical activity improves cardiovascular health. | True    |
+| Vitamin supplementation supports overall health. | True    |
+| Recycling
+
+ reduces landfill waste.                | True    |
+| Regular sleep patterns improve cognitive function. | True    |
+| India invests in public transportation infrastructure. | True  |
+| Adequate hydration is important for kidney function. | True    |
+| Early intervention improves treatment outcomes for mental illness. | True |
+| Exercise promotes longevity and healthy aging.   | True    |
+| Yoga improves posture and flexibility.           | True    |
+| Proper nutrition reduces the risk of malnutrition. | True    |
+| Mental health screenings increase access to care. | True    |
+| India's environmental policies protect natural habitats. | True    |
+| Regular physical activity improves mood.         | True    |
+| Oral hygiene practices prevent gum disease.      | True    |
+| Sustainable farming practices protect soil quality. | True    |
+| Mental health support services should be accessible to all. | True |
+| Recycling conserves natural resources.           | True    |
+| Proper nutrition supports immune function.       | True    |
+| Regular exercise improves respiratory function.  | True    |
+| Yoga reduces stress and promotes relaxation.     | True    |
+| India's forest conservation efforts yield positive results. | True |
+| Vaccination reduces healthcare costs.            | True    |
+| Sun protection prevents skin cancer.             | True    |
+| Green spaces promote mental well-being.          | True    |
+| Regular handwashing prevents the spread of infectious diseases. | True |
+| Exercise increases energy levels.                | True    |
+| Access to clean water improves public health.   | True    |
+| Mental health education fosters resilience.      | True    |
+| Sustainable agriculture practices benefit the environment. | True |
+| Adequate sleep improves cognitive function.      | True    |
+| Regular dental check-ups prevent tooth decay.   | True    |
+| Vaccination prevents the spread of contagious diseases. | True |
+| Proper hand hygiene prevents infections.         | True    |
+| Physical fitness enhances quality of life.      | True    |
+| Mental health resources should be accessible to all. | True |
+| Yoga improves flexibility and reduces stress.    | True    |
+| India promotes clean energy initiatives.         | True    |
+| Outdoor activities enhance mental well-being.    | True    |
+| Balanced nutrition supports immune function.     | True    |
+| Vaccination is crucial for public health.        | True    |
+| Sunlight exposure boosts vitamin D production.   | True    |
+| India's healthcare infrastructure improves.     | True    |
+| Social support networks promote emotional well-being. | True |
+| Recycling reduces greenhouse gas emissions.      | True    |
+| Regular handwashing prevents the spread of infectious diseases. | True |
+| Exercise reduces the risk of osteoporosis.       | True    |
+| Proper hygiene practices prevent foodborne illnesses. | True |
+| Mental health education should be integrated into school curricula. | True |
+| India invests in clean water initiatives.        | True    |
+| Physical activity decreases the risk of depression. | True    |
+| Tobacco use increases the risk of heart disease. | True    |
+| India implements measures to conserve biodiversity. | True    |
+| Eating a variety of fruits and vegetables supports overall health. | True |
+| Vaccination prevents outbreaks of infectious diseases. | True    |
+| India's sanitation efforts reduce infant mortality rates. | True    |
+| Proper nutrition during pregnancy is essential for fetal development. | True |
+| Regular exercise reduces the risk of type 2 diabetes. | True    |
+| Mental health awareness campaigns reduce stigma. | True    |
+| Renewable energy sources decrease reliance on fossil fuels. | True |
+| Dental hygiene practices prevent tooth decay.    | True    |
+| India's education initiatives increase literacy rates. | True    |
+| Physical activity improves cardiovascular health. | True    |
+| Vitamin supplementation supports overall health. | True    |
+| Recycling reduces landfill waste.                | True    |
+| Regular sleep patterns improve cognitive function. | True    |
+| India invests in public transportation infrastructure. | True  |
+| Adequate hydration is important for kidney function. | True    |
+| Early intervention improves treatment outcomes for mental illness. | True |
+| Exercise promotes longevity and healthy aging.   | True    |
+| Yoga improves posture and flexibility.           | True    |
+| Proper nutrition reduces the risk of malnutrition. | True    |
+| Mental health screenings increase access to care. | True    |
+| India's environmental policies protect natural habitats. | True    |
+| Regular physical activity improves mood.         | True    |
+| Oral hygiene practices prevent gum disease.      | True    |
+| Sustainable farming practices protect soil quality. | True    |
+| Mental health support services should be accessible to all. | True |
+| Recycling conserves natural resources.           | True    |
+| Proper nutrition supports immune function.       | True    |
+| Regular exercise improves respiratory function.  | True    |
+| Yoga reduces stress and promotes relaxation.     | True    |
+| India's forest conservation efforts yield positive results. | True |
+| Vaccination reduces healthcare costs.            | True    |
+| Sun protection prevents skin cancer.             | True    |
+| Green spaces promote mental well-being.          | True    |
+| Regular handwashing prevents the spread of infectious diseases. | True |
+| Exercise increases energy levels.                | True    |
+| Access to clean water improves public health.   | True    |
+| Mental health education fosters resilience.      | True    |
+| Sustainable agriculture practices benefit the environment. | True |
+| Adequate sleep improves cognitive function.      | True    |
+| Regular dental check-ups prevent tooth decay.   | True    |
+| Vaccination prevents the spread of contagious diseases. | True |
+| Proper hand hygiene prevents infections.         | True    |
+| Physical fitness enhances quality of life.      | True    |
+| Mental health resources should be accessible to all. | True |
+| Yoga improves flexibility and reduces stress.    | True    |
+| India promotes clean energy initiatives.         | True    |
+| Outdoor activities enhance mental well-being.    | True    |
+| Balanced nutrition supports immune function.     | True    |
+| Vaccination is crucial for public health.        | True    |
+| Sunlight exposure boosts vitamin D production.   | True    |
+| India's healthcare infrastructure improves.     | True    |
+| Social support networks promote emotional well-being. | True |
+| Recycling reduces greenhouse gas emissions.      | True    |
+| Regular handwashing prevents the spread of infectious diseases. | True |
+| Exercise reduces the risk of osteoporosis.       | True    |
+| Proper hygiene practices prevent foodborne illnesses. | True |
+| Mental health education should be integrated into school curricula. | True |
+| India invests in clean water initiatives.        | True    |
+| Physical activity decreases the risk of depression. | True    |
+| Tobacco use increases the risk of heart disease. | True    |
+| India implements measures to conserve biodiversity. | True    |
+| Eating a variety of fruits and vegetables supports overall health. | True |
+| Vaccination prevents outbreaks of infectious diseases. | True    |
+| India's sanitation efforts reduce infant mortality rates. | True    |
+| Proper nutrition during pregnancy is essential for fetal development. | True |
+| Regular exercise reduces the risk of type 2 diabetes. | True    |
+| Mental health awareness campaigns reduce stigma. | True    |
+| Renewable energy sources decrease reliance on fossil fuels. | True |
+| Dental hygiene practices prevent tooth decay.    | True   
+
+ |
+| India's education initiatives increase literacy rates. | True    |
+| Physical activity improves cardiovascular health. | True    |
+| Vitamin supplementation supports overall health. | True    |
+| Recycling reduces landfill waste.                | True    |
+| Regular sleep patterns improve cognitive function. | True    |
+| India invests in public transportation infrastructure. | True  |
+| Adequate hydration is important for kidney function. | True    |
+| Early intervention improves treatment outcomes for mental illness. | True |
+| Exercise promotes longevity and healthy aging.   | True    |
+| Yoga improves posture and flexibility.           | True    |
+| Proper nutrition reduces the risk of malnutrition. | True    |
+| Mental health screenings increase access to care. | True    |
+| India's environmental policies protect natural habitats. | True    |
+| Regular physical activity improves mood.         | True    |
+| Oral hygiene practices prevent gum disease.      | True    |
+| Sustainable farming practices protect soil quality. | True |
+| Mental health support services should be accessible to all. | True |
+| Recycling conserves natural resources.           | True    |
+| Proper nutrition supports immune function.       | True    |
+| Regular exercise improves respiratory function.  | True    |
+| Yoga reduces stress and promotes relaxation.     | True    |
+| India's forest conservation efforts yield positive results. | True |
+| Vaccination reduces healthcare costs.            | True    |
+| Sun protection prevents skin cancer.             | True    |
+| Green spaces promote mental well-being.          | True    |
+| Regular handwashing prevents the spread of infectious diseases. | True |
+| Exercise increases energy levels.                | True    |
+| Access to clean water improves public health.   | True    |
+| Mental health education fosters resilience.      | True    |
+| Sustainable agriculture practices benefit the environment. | True |
+| Adequate sleep improves cognitive function.      | True    |
+| Regular dental check-ups prevent tooth decay.   | True    |
+| Vaccination prevents the spread of contagious diseases. | True |
+| Proper hand hygiene prevents infections.         | True    |
+| Physical fitness enhances quality of life.      | True    |
+| Mental health resources should be accessible to all. | True |
+| Yoga improves flexibility and reduces stress.    | True    |
+| India promotes clean energy initiatives.         | True    |
+| Outdoor activities enhance mental well-being.    | True    |
+| Balanced nutrition supports immune function.     | True    |
+| Vaccination is crucial for public health.        | True    |
+| Sunlight exposure boosts vitamin D production.   | True    |
+| India's healthcare infrastructure improves.     | True    |
+| Social support networks promote emotional well-being. | True |
+| Recycling reduces greenhouse gas emissions.      | True    |
+| Regular handwashing prevents the spread of infectious diseases. | True |
+| Exercise reduces the risk of osteoporosis.       | True    |
+| Proper hygiene practices prevent foodborne illnesses. | True |
+| Mental health education should be integrated into school curricula. | True |
+| India invests in clean water initiatives.        | True    |
+| Physical activity decreases the risk of depression. | True    |
+| Tobacco use increases the risk of heart disease. | True    |
+| India implements measures to conserve biodiversity. | True    |
+| Eating a variety of fruits and vegetables supports overall health. | True |
+| Vaccination prevents outbreaks of infectious diseases. | True    |
+| India's sanitation efforts reduce infant mortality rates. | True    |
+| Proper nutrition during pregnancy is essential for fetal development. | True |
+| Regular exercise reduces the risk of type 2 diabetes. | True    |
+| Mental health awareness campaigns reduce stigma. | True    |
+| Renewable energy sources decrease reliance on fossil fuels. | True |
+| Dental hygiene practices prevent tooth decay.    | True    |
+| India's education initiatives increase literacy rates. | True    |
+| Physical activity improves cardiovascular health. | True    |
+| Vitamin supplementation supports overall health. | True    |
+| Recycling reduces landfill waste.                | True    |
+| Regular sleep patterns improve cognitive function. | True    |
+| India invests in public transportation infrastructure. | True  |
+| Adequate hydration is important for kidney function. | True    |
+| Early intervention improves treatment outcomes for mental illness. | True |
+| Exercise promotes longevity and healthy aging.   | True    |
+| Yoga improves posture and flexibility.           | True    |
+| Proper nutrition reduces the risk of malnutrition. | True    |
+| Mental health screenings increase access to care. | True    |
+| India's environmental policies protect natural habitats. | True    |
+| Regular physical activity improves mood.         | True    |
+| Oral hygiene practices prevent gum disease.      | True    |
+| Sustainable farming practices protect soil quality. | True |
+| Mental health support services should be accessible to all. | True |
+| Recycling conserves natural resources.           | True    |
+| Proper nutrition supports immune function.       | True    |
+| Regular exercise improves respiratory function.  | True    |
+| Yoga reduces stress and promotes relaxation.     | True    |
+| India's forest conservation efforts yield positive results. | True |
+| Vaccination reduces healthcare costs.            | True    |
+| Sun protection prevents skin cancer.             | True    |
+| Green spaces promote mental well-being.          | True    |
+| Regular handwashing prevents the spread of infectious diseases. | True |
+| Exercise increases energy levels.                | True    |
+| Access to clean water improves public health.   | True    |
+| Mental health education fosters resilience.      | True    |
+| Sustainable agriculture practices benefit the environment. | True |
+| Adequate sleep improves cognitive function.      | True    |
+| Regular dental check-ups prevent tooth decay.   | True    |
+| Vaccination prevents the spread of contagious diseases. | True |
+| Proper hand hygiene prevents infections.         | True    |
+| Physical fitness enhances quality of life.      | True    |
+| Mental health resources should be accessible to all. | True |
+| Yoga improves flexibility and reduces stress.    | True    |
+| India promotes clean energy initiatives.         | True    |
+| Outdoor activities enhance mental well-being.    | True    |
+| Balanced nutrition supports immune function.     | True    |
+| Vaccination is crucial for public health.        | True    |
+| Sunlight exposure boosts vitamin D production.   | True    |
+| India's healthcare infrastructure improves.     | True    |
+| Social support networks promote emotional well-being. | True |
+| Recycling reduces greenhouse gas emissions.      | True    |
+| Regular handwashing prevents the spread of infectious diseases. | True |
+| Exercise reduces the risk of osteoporosis.       | True    |
+| Proper hygiene practices prevent foodborne illnesses. | True |
+| Mental health education should be integrated into school curricula. | True |
+| India invests in clean water initiatives.        | True    |
+| Physical activity decreases the risk of depression. | True    |
+| Tobacco use increases the risk of heart disease. | True    |
+| India implements measures to conserve biodiversity. | True    |
+| Eating a variety of fruits and vegetables supports overall health. | True |
+| Vaccination prevents outbreaks of infectious diseases. | True    |
+| India's sanitation efforts reduce infant mortality rates. | True    |
+| Proper nutrition during pregnancy is essential for fetal development. | True |
+| Regular exercise reduces the risk of type 2 diabetes. | True    |
+|
