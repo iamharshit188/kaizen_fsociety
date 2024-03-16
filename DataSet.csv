@@ -1,107 +1,106 @@
-tweet_text,claim
-,
-Drinking bleach cures COVID-19.                   ,0
-  India's Prime Minister resigns unexpectedly.       ,0
-  Vaccines cause infertility.                        ,0
-  Eating garlic prevents the flu.                    ,0
-  India to build a space elevator by 2030.           ,0
-  Cell phones cause brain tumors.                    ,0
-  Consuming raw eggs boosts IQ.                      ,0
-  India plans to ban all imports from China.         ,0
-  5G towers cause COVID-19.                          ,0
-  Drinking cow urine prevents diseases.              ,0
-  Climate change is a hoax.                          ,0
-  Indian rupee to surpass the US dollar next year.   ,0
-  Eating pineapple before bed aids digestion.        ,0
-  COVID-19 is a biological weapon.                   ,0
-  India's GDP growth rate exceeds 10% last quarter.  ,0
-  Homeopathy cures all diseases.                     ,0
-  Bill Gates created COVID-19 for population control. ,0
-  India plans to ban social media platforms.         ,0
-  Aliens visited India last month.                   ,0
-  Holding your breath for 10 seconds tests for COVID-19. ,0
-  The Earth is flat.                                 ,0
-  Eating bananas before bed causes nightmares.       ,0
-  India discovers a new energy source.               ,0
-  Vaccines contain microchips for tracking.          ,0
-  Indian government plans to privatize healthcare.   ,0
-  India to implement Universal Basic Income.         ,0
-  Yoga can cure all diseases.                       ,1
-  Regular exercise reduces the risk of heart disease.  ,1
-  Drinking water improves skin health.             ,1
-  Education increases earning potential.            ,1
-  Smoking leads to lung cancer.                     ,1
-  Green tea boosts metabolism.                      ,1
-  Sleep is essential for overall health.            ,1
-  Flossing reduces the risk of gum disease.         ,1
-  Eating fruits and vegetables lowers blood pressure.  ,1
-  COVID-19 vaccines are effective in preventing severe illness.  ,1
-  India's literacy rate improves over the past decade.  ,1
-  Renewable energy sources reduce carbon emissions.  ,1
-  Brushing teeth twice a day prevents cavities.     ,1
-  Limiting sugar intake improves dental health.     ,1
-  Handwashing prevents the spread of diseases.      ,1
-  Mental health benefits from meditation.           ,1
-  Vaccines save millions of lives annually.         ,1
-  Regular medical check-ups are important for early detection of diseases.  ,1
-  Exercise improves mood and reduces stress.        ,1
-  Proper hydration is important for kidney health.  ,1
-  Balanced diet supports overall well-being.        ,1
-  The ozone layer protects Earth from harmful UV radiation.  ,1
-  India's sanitation efforts reduce waterborne diseases.  ,1
-  Walking improves cardiovascular health.           ,1
-  Sunscreen reduces the risk of skin cancer.        ,1
-  Vegetarian diet lowers the risk of heart disease.  ,1
-  India achieves record agricultural output.        ,1
-  Hygiene practices prevent infections.             ,1
-  Regular exercise increases life expectancy.       ,1
-  Mental health screenings are crucial for early intervention.  ,1
-  Organic farming promotes environmental sustainability.  ,1
-  Vitamin D supplements support bone health.        ,1
-  Recycling reduces waste and conserves resources.  ,1
-  Proper handwashing technique prevents illness.    ,1
-  Physical activity improves cognitive function.   ,1
-  Reducing salt intake lowers blood pressure.       ,1
-  Getting enough sleep is important for brain function.  ,1
-  Eating fiber-rich foods aids digestion.           ,1
-  India invests in renewable energy infrastructure.  ,1
-  Early detection of cancer improves treatment outcomes.  ,1
-  Exercise boosts immune function.                  ,1
-  Meditation reduces stress and anxiety.            ,1
-  Regular dental check-ups maintain oral health.   ,1
-  India's air quality improves due to environmental policies.  ,1
-  Proper nutrition is essential for child development.  ,1
-  Physical fitness reduces the risk of chronic diseases.  ,1
-  Mental well-being is as important as physical health.  ,1
-  Sustainable agriculture practices protect the environment.  ,1
-  Early childhood education positively impacts future success.  ,1
-  Adequate sleep promotes better mental health.      ,1
-  India implements measures to combat air pollution.  ,1
-  Fluoride in water strengthens tooth enamel.       ,1
-  Regular vaccinations protect against infectious diseases.  ,1
-  Drinking enough water improves cognitive function.  ,1
-  Regular exercise improves quality of life.        ,1
-  Maintaining a healthy weight reduces the risk of chronic diseases.  ,1
-  Mental health resources should be accessible to all.  ,1
-  Yoga improves flexibility and reduces stress.     ,1
-  India promotes clean energy initiatives.          ,1
-  Outdoor activities enhance mental well-being.     ,1
-  Balanced nutrition supports immune function.      ,1
-  Vaccination is crucial for public health.         ,1
-  Sunlight exposure boosts vitamin D production.    ,1
-  India's healthcare infrastructure improves.      ,1
-  Social support networks promote emotional well-being.  ,1
-  Recycling reduces greenhouse gas emissions.       ,1
-  Regular handwashing prevents the spread of infectious diseases.  ,1
-  Exercise reduces the risk of osteoporosis.        ,1
-  Proper hygiene practices prevent foodborne illnesses.  ,1
-  Mental health education should be integrated into school curricula.  ,1
-  India invests in clean water initiatives.         ,1
-  Physical activity decreases the risk of depression.  ,1
-  Tobacco use increases the risk of heart disease.  ,1
-  India implements measures to conserve biodiversity.  ,1
-  Eating a variety of fruits and vegetables supports overall health.  ,1
-  Vaccination prevents outbreaks of infectious diseases.  ,1
-  India's sanitation efforts reduce infant mortality rates.  ,1
-  Proper nutrition during pregnancy is essential for fetal development.  ,1
-  Regular exercise reduces the risk of type 2 diabetes.  ,1
+tweet_text                                                               ,claim
+Drinking bleach cures COVID-19.                                          ,    0
+India's Prime Minister resigns unexpectedly.                             ,    0
+Vaccines cause infertility.                                              ,    0
+Eating garlic prevents the flu.                                          ,    0
+India to build a space elevator by 2030.                                 ,    0
+Cell phones cause brain tumors.                                          ,    0
+Consuming raw eggs boosts IQ.                                            ,    0
+India plans to ban all imports from China.                               ,    0
+5G towers cause COVID-19.                                                ,    0
+Drinking cow urine prevents diseases.                                    ,    0
+Climate change is a hoax.                                                ,    0
+Indian rupee to surpass the US dollar next year.                         ,    0
+Eating pineapple before bed aids digestion.                              ,    0
+COVID-19 is a biological weapon.                                         ,    0
+India's GDP growth rate exceeds 10% last quarter.                        ,    0
+Homeopathy cures all diseases.                                           ,    0
+Bill Gates created COVID-19 for population control.                      ,    0
+India plans to ban social media platforms.                               ,    0
+Aliens visited India last month.                                         ,    0
+Holding your breath for 10 seconds tests for COVID-19.                   ,    0
+The Earth is flat.                                                       ,    0
+Eating bananas before bed causes nightmares.                             ,    0
+India discovers a new energy source.                                     ,    0
+Vaccines contain microchips for tracking.                                ,    0
+Indian government plans to privatize healthcare.                         ,    0
+India to implement Universal Basic Income.                               ,    0
+Yoga can cure all diseases.                                              ,    1
+Regular exercise reduces the risk of heart disease.                      ,    1
+Drinking water improves skin health.                                     ,    1
+Education increases earning potential.                                   ,    1
+Smoking leads to lung cancer.                                            ,    1
+Green tea boosts metabolism.                                             ,    1
+Sleep is essential for overall health.                                   ,    1
+Flossing reduces the risk of gum disease.                                ,    1
+Eating fruits and vegetables lowers blood pressure.                      ,    1
+COVID-19 vaccines are effective in preventing severe illness.            ,    1
+India's literacy rate improves over the past decade.                     ,    1
+Renewable energy sources reduce carbon emissions.                        ,    1
+Brushing teeth twice a day prevents cavities.                            ,    1
+Limiting sugar intake improves dental health.                            ,    1
+Handwashing prevents the spread of diseases.                             ,    1
+Mental health benefits from meditation.                                  ,    1
+Vaccines save millions of lives annually.                                ,    1
+Regular medical check-ups are important for early detection of diseases. ,    1
+Exercise improves mood and reduces stress.                               ,    1
+Proper hydration is important for kidney health.                         ,    1
+Balanced diet supports overall well-being.                               ,    1
+The ozone layer protects Earth from harmful UV radiation.                ,    1
+India's sanitation efforts reduce waterborne diseases.                   ,    1
+Walking improves cardiovascular health.                                  ,    1
+Sunscreen reduces the risk of skin cancer.                               ,    1
+Vegetarian diet lowers the risk of heart disease.                        ,    1
+India achieves record agricultural output.                               ,    1
+Hygiene practices prevent infections.                                    ,    1
+Regular exercise increases life expectancy.                              ,    1
+Mental health screenings are crucial for early intervention.             ,    1
+Organic farming promotes environmental sustainability.                   ,    1
+Vitamin D supplements support bone health.                               ,    1
+Recycling reduces waste and conserves resources.                         ,    1
+Proper handwashing technique prevents illness.                           ,    1
+Physical activity improves cognitive function.                           ,    1
+Reducing salt intake lowers blood pressure.                              ,    1
+Getting enough sleep is important for brain function.                    ,    1
+Eating fiber-rich foods aids digestion.                                  ,    1
+India invests in renewable energy infrastructure.                        ,    1
+Early detection of cancer improves treatment outcomes.                   ,    1
+Exercise boosts immune function.                                         ,    1
+Meditation reduces stress and anxiety.                                   ,    1
+Regular dental check-ups maintain oral health.                           ,    1
+India's air quality improves due to environmental policies.              ,    1
+Proper nutrition is essential for child development.                     ,    1
+Physical fitness reduces the risk of chronic diseases.                   ,    1
+Mental well-being is as important as physical health.                    ,    1
+Sustainable agriculture practices protect the environment.               ,    1
+Early childhood education positively impacts future success.             ,    1
+Adequate sleep promotes better mental health.                            ,    1
+India implements measures to combat air pollution.                       ,    1
+Fluoride in water strengthens tooth enamel.                              ,    1
+Regular vaccinations protect against infectious diseases.                ,    1
+Drinking enough water improves cognitive function.                       ,    1
+Regular exercise improves quality of life.                               ,    1
+Maintaining a healthy weight reduces the risk of chronic diseases.       ,    1
+Mental health resources should be accessible to all.                     ,    1
+Yoga improves flexibility and reduces stress.                            ,    1
+India promotes clean energy initiatives.                                 ,    1
+Outdoor activities enhance mental well-being.                            ,    1
+Balanced nutrition supports immune function.                             ,    1
+Vaccination is crucial for public health.                                ,    1
+Sunlight exposure boosts vitamin D production.                           ,    1
+India's healthcare infrastructure improves.                              ,    1
+Social support networks promote emotional well-being.                    ,    1
+Recycling reduces greenhouse gas emissions.                              ,    1
+Regular handwashing prevents the spread of infectious diseases.          ,    1
+Exercise reduces the risk of osteoporosis.                               ,    1
+Proper hygiene practices prevent foodborne illnesses.                    ,    1
+Mental health education should be integrated into school curricula.      ,    1
+India invests in clean water initiatives.                                ,    1
+Physical activity decreases the risk of depression.                      ,    1
+Tobacco use increases the risk of heart disease.                         ,    1
+India implements measures to conserve biodiversity.                      ,    1
+Eating a variety of fruits and vegetables supports overall health.       ,    1
+Vaccination prevents outbreaks of infectious diseases.                   ,    1
+India's sanitation efforts reduce infant mortality rates.                ,    1
+Proper nutrition during pregnancy is essential for fetal development.    ,    1
+Regular exercise reduces the risk of type 2 diabetes.                    ,    1
