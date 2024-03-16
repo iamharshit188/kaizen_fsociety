@@ -232,11 +232,9 @@ Creating a larger dataset with thousands of labeled examples for training an AI 
 | Regular exercise reduces the risk of type 2 diabetes. | True    |
 | Mental health awareness campaigns reduce stigma. | True    |
 | Renewable energy sources decrease reliance on fossil fuels. | True |
-| Dental hygiene practices prevent tooth decay.    | True   
-
- |
+| Dental hygiene practices prevent tooth decay.    | True |
 | India's education initiatives increase literacy rates. | True    |
-| Physical activity improves cardiovascular health. | True    |
+| Physical activity improves cardiovascular health. | True |
 | Vitamin supplementation supports overall health. | True    |
 | Recycling reduces landfill waste.                | True    |
 | Regular sleep patterns improve cognitive function. | True    |
