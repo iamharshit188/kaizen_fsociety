@@ -114,9 +114,7 @@ Creating a larger dataset with thousands of labeled examples for training an AI 
 | India's education initiatives increase literacy rates. | True    |
 | Physical activity improves cardiovascular health. | True    |
 | Vitamin supplementation supports overall health. | True    |
-| Recycling
-
- reduces landfill waste.                | True    |
+| Recycling reduces landfill waste.                | True    |
 | Regular sleep patterns improve cognitive function. | True    |
 | India invests in public transportation infrastructure. | True  |
 | Adequate hydration is important for kidney function. | True    |
